@@ -1,0 +1,15 @@
+.backgroundColorPrimary {
+    background-color: #9575CD;
+}
+
+.backgroundColorFooterPrimary {
+    background-color: #D1C4E9;
+}
+
+.backgroundColorFooterPrimary.footer {
+    padding-top: 28px
+}
+
+.content-section {
+    padding: 50px 0 50px 0;
+}
