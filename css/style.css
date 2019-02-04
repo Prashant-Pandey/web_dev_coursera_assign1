@@ -13,3 +13,45 @@
 .content-section {
     padding: 50px 0 50px 0;
 }
+
+.bg-theme-dark{
+    background-color: #5F00A6;
+}
+
+.bg-theme-yellow{
+    background-color: #FFC400 !important;
+    padding: 5px;
+    text-align: center;
+}
+
+.index-section{
+    padding: 5% 0 5% 0;
+}
+
+#reserve-table .form-inline{
+    justify-content: space-around;
+    padding: 20px 0 20px 0;
+}
+
+.small-text-form{
+    font-size: 12px;
+    align-self: center
+}
+
+/* #reserve-table{
+    margin-top: 16px;
+    border: 1px solid #f0f0f0;
+}
+
+#reserve-table .radio-inline{
+    padding-left: 15px;
+}
+#reserve-table .form-inline{
+    padding-left: 15px;
+}
+#reserve-table .form-inline label{
+    padding-right: 15px;
+}
+#reserve-table .radio-inline input{
+    padding-right: 5px;
+} */
